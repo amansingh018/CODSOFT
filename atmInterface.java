@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atmInterface {
+public class AtmInterface {
 
     private static double balance = 1000.00; // Initial balance
 
